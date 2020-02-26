@@ -1,0 +1,32 @@
+#myName{
+    text-align: center;
+    font-size: 40px;
+    border-width: 5px;
+    border-style: outset;
+    background-color: deepskyblue;
+}
+
+body{
+    background-color: darksalmon;
+}
+
+#mePic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 10px;
+    border-style: groove;
+}
+
+h3{
+    text-align: center;
+}
+
+li{
+    list-style: none;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
